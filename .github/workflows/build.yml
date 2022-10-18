@@ -2,7 +2,7 @@ name: JavaCompileTest with Gradle
 
 on:
   push:
-#    branches: [ "main" ]
+    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
