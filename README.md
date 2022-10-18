@@ -1,4 +1,10 @@
-### Mestobo is the open source medical software toolbox
+Mestobo
+=====
+
+[![Build](https://github.com/claudiaw797/mestobo/actions/workflows/build.yml/badge.svg)](https://github.com/claudiaw797/mestobo/actions/workflows/build.yml)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Mestobo is the open source medical software toolbox
 
 <!--
 **mestobo/mestobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
